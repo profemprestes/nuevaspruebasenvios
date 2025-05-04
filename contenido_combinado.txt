@@ -1,3 +1,4 @@
+=== CONTENIDO HTML ===
 <!DOCTYPE html>
 <html lang="es">
         <head>
@@ -118,7 +119,6 @@
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer">
         <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
             <link rel="stylesheet" href="./cssjs/style.css">
             <link rel="stylesheet" href="./cssjs/navbar.css">
             <link rel="stylesheet" href="./cssjs/footer.css">
@@ -267,134 +267,161 @@
         </div>
     </section>
 
-    <!-- ======= About Section ======= -->
-    <section class="about-section py-5" data-aos="fade-up">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-10 col-xl-8">
-                    <div class="about-content text-center">
-                        <h2 class="section-title mb-4 animate__animated animate__fadeInDown">
-                            Quiénes Somos
-                        </h2>
-                        <div class="about-text">
-                            <p class="lead mb-4 animate__animated animate__fadeIn" data-aos-delay="100">
-                                Envios DosRuedas es tu aliado confiable en mensajería y delivery en Mar del Plata. Mantenemos una calificación de 4.9 estrellas en Google Reviews gracias a la confianza de nuestros clientes. Nos dedicamos a brindar soluciones rápidas, económicas y seguras para todas tus necesidades de transporte y logística.
-                            </p>
-                            <p class="animate__animated animate__fadeIn" data-aos-delay="200">
-                                Nuestro compromiso con la excelencia y la puntualidad nos ha permitido construir una sólida reputación en la ciudad. Contamos con un equipo profesional dedicado a garantizar que cada envío llegue a tiempo y en perfectas condiciones.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-  
-    <!-- ======= Services Section ======= -->
-    <section class="services-section py-5" data-aos="fade-up">
-        <div class="container">
-            <h2 class="section-title text-center mb-5 animate__animated animate__fadeInDown">
-                Nuestros Servicios
-            </h2>
-            <div class="row g-4">
-                <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100">
-                    <div class="service-card">
-                        <div class="service-icon">
-                            <i class="fas fa-shipping-fast"></i>
-                        </div>
-                        <h3 class="service-title">Envíos Express</h3>
-                        <p class="service-description">
-                            Servicio premium con horario a elección. Solicite antes de las 15:00 para entrega en el mismo día.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
-                    <div class="service-card">
-                        <div class="service-icon">
-                            <i class="fas fa-hand-holding-dollar"></i>
-                        </div>
-                        <h3 class="service-title">Envíos LowCost</h3>
-                        <p class="service-description">
-                            Opción económica con entregas entre las 10:00 y 18:00 horas.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
-                    <div class="service-card">
-                        <div class="service-icon">
-                            <i class="fas fa-utensils"></i>
-                        </div>
-                        <h3 class="service-title">Delivery Gastronómico</h3>
-                        <p class="service-description">
-                            Servicio especializado para restaurantes con tiempos de entrega optimizados.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
-                    <div class="service-card">
-                        <div class="service-icon">
-                            <i class="fas fa-motorcycle"></i>
-                        </div>
-                        <h3 class="service-title">Moto Fija</h3>
-                        <p class="service-description">
-                            Servicio de moto dedicada exclusivamente para su empresa en el horario requerido.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
- 
-    <!-- ======= Coverage Section ======= -->
-    <section id="cobertura" class="coverage-section py-5">
-        <div class="container">
-            <div class="section-header text-center mb-5">
-                <h2 class="section-title">Nuestra Cobertura</h2>
-                <p class="section-description">Servicio de mensajería disponible en toda Mar del Plata con horarios flexibles</p>
-            </div>
-            <div class="row g-4">
-                <div class="col-md-6">
-                    <div class="coverage-card">
-                        <div class="card-header">
-                            <div class="icon-wrapper">
-                                <i class="fas fa-map-marked-alt"></i>
+                    <!-- ======= About Section ======= -->
+                    <section class="about-section py-5" data-ss-id="yGs5wbXpf0hC3WYOrrfK7" data-ss-padding="" data-ss-border="">
+                        <div class="container" data-ss-id="ZA8o0oStSPrE2YvDV4KsS" data-ss-padding="" data-ss-border="">
+                            <h2 class="section-title text-center mb-4" data-ss-id="czlzxfrkeC7rGLTu7i79v" data-ss-padding="" data-ss-border="">
+                                Quiénes Somos
+                            </h2>
+                            <div class="row justify-content-center" data-ss-id="2WN6GAs14jFv57_fAy_R6" data-ss-padding="" data-ss-border="">
+                                <div class="col-lg-8" data-ss-id="2QTJ0wG-BOHfT2iZFxRZ_" data-ss-padding="" data-ss-border="">
+                                    <div class="about-content text-center" data-ss-id="WWj1rZyLTJRO6Ap2HpEHB" data-ss-padding="" data-ss-border="">
+                                        <p class="mb-4" data-ss-id="afUkMFZlMgrykXvAkCNAJ" data-ss-padding="" data-ss-border="">
+                                            Envios DosRuedas es tu aliado confiable en mensajería y delivery en Mar del Plata. Mantenemos una calificación de 4.9 estrellas en Google Reviews gracias a la confianza de nuestros clientes. Nos dedicamos a brindar soluciones rápidas, económicas y seguras para todas tus necesidades de transporte y logística.
+                                        </p>
+                                        <p data-ss-id="NjPFBZqCLGFiyREWDNnpa" data-ss-padding="" data-ss-border="">
+                                            Nuestro compromiso con la excelencia y la puntualidad nos ha permitido construir una sólida reputación en la ciudad. Contamos con un equipo profesional dedicado a garantizar que cada envío llegue a tiempo y en perfectas condiciones.
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
-                            <h3 class="coverage-title">Zonas de Servicio</h3>
                         </div>
-                        <div class="card-body">
-                            <ul class="coverage-list">
-                                <li><i class="fas fa-check-circle"></i> Zona Centro</li>
-                                <li><i class="fas fa-check-circle"></i> Zona Sur</li>
-                                <li><i class="fas fa-check-circle"></i> Zona Puerto</li>
-                                <li><i class="fas fa-check-circle"></i> Barrios Residenciales</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="coverage-card">
-                        <div class="card-header">
-                            <div class="icon-wrapper">
-                                <i class="fas fa-clock"></i>
+                    </section>
+                    <!-- ======= Services Section ======= -->
+                    <section class="services-section py-5" data-ss-id="4DQaYD4lzweMT4_3IvqeB" data-ss-padding="" data-ss-border="">
+                        <div class="container" data-ss-id="dRL6IAB2lKLuSlBNicODs" data-ss-padding="" data-ss-border="">
+                            <h2 class="section-title text-center mb-5" data-ss-id="8YUHYT8w3qCFz9u1Cs8SB" data-ss-padding="" data-ss-border="">
+                                Nuestros Servicios
+                            </h2>
+                            <div class="row g-4" data-ss-id="GPXsDEzD5vkoDR6-QCxlp" data-ss-padding="" data-ss-border="">
+                                <div class="col-md-6 col-lg-3" data-ss-id="7zBrT7T9XchmsDO8JVDxi" data-ss-padding="" data-ss-border="">
+                                    <div class="service-card h-100 p-4 rounded shadow-sm" data-ss-id="WuxXnjdtzaCqoBWAosurM" data-ss-padding="" data-ss-border="">
+                                        <div class="service-icon mb-3" data-ss-id="XbZjNkYs8LVCvINFAIa-x" data-ss-padding="" data-ss-border="">📦
+                                        </div>
+                                        <h3 class="service-title h5 mb-3" data-ss-id="KdnK042rICjehDLXByruO" data-ss-padding="" data-ss-border="">Envíos Express
+                                        </h3>
+                                        <p class="service-description" data-ss-id="y1H6fytyiydLzFtMLw9mu" data-ss-padding="" data-ss-border="">
+                                            Servicio premium con horario a elección. Solicite antes de las 15:00 para entrega en el mismo día.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-3" data-ss-id="ch2P2z9nLmlpM3VRM8grZ" data-ss-padding="" data-ss-border="">
+                                    <div class="service-card h-100 p-4 rounded shadow-sm" data-ss-id="QjRUKULDCWogMtVBmpZ3u" data-ss-padding="" data-ss-border="">
+                                        <div class="service-icon mb-3" data-ss-id="QilCXe7hikIYfPvj6VM0l" data-ss-padding="" data-ss-border="">💰
+                                        </div>
+                                        <h3 class="service-title h5 mb-3" data-ss-id="i4YIHihyWJQVUURzUHDyp" data-ss-padding="" data-ss-border="">Envíos LowCost
+                                        </h3>
+                                        <p class="service-description" data-ss-id="VV4iOVn8mJ6M4-FueqXtS" data-ss-padding="" data-ss-border="">
+                                            Opción económica con entregas entre las 10:00 y 18:00 horas.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-3" data-ss-id="XUU8WBj8Enwo2PW23j9Nl" data-ss-padding="" data-ss-border="">
+                                    <div class="service-card h-100 p-4 rounded shadow-sm" data-ss-id="S-BEafFOQZ0Vsx3e9-yh5" data-ss-padding="" data-ss-border="">
+                                        <div class="service-icon mb-3" data-ss-id="e07kG6qb9TzcLfEQWWamV" data-ss-padding="" data-ss-border="">🍽️
+                                        </div>
+                                        <h3 class="service-title h5 mb-3" data-ss-id="mjiW46GMc0iFhRPyHEOr6" data-ss-padding="" data-ss-border="">Delivery Gastronómico
+                                        </h3>
+                                        <p class="service-description" data-ss-id="snTzzWy551_xDj2xv2ZX5" data-ss-padding="" data-ss-border="">
+                                            Servicio especializado para restaurantes con tiempos de entrega optimizados.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-3" data-ss-id="Gvza6TzcQtMsS4ugvT_OK" data-ss-padding="" data-ss-border="">
+                                    <div class="service-card h-100 p-4 rounded shadow-sm" data-ss-id="JQpFnv9CPfk2sg_zANz4a" data-ss-padding="" data-ss-border="">
+                                        <div class="service-icon mb-3" data-ss-id="HuXpmQO7C6rlZOPfHKA4c" data-ss-padding="" data-ss-border="">🏍️
+                                        </div>
+                                        <h3 class="service-title h5 mb-3" data-ss-id="9EpgeetuuQdx1W9iNnmhB" data-ss-padding="" data-ss-border="">Moto Fija
+                                        </h3>
+                                        <p class="service-description" data-ss-id="ARe-YDKXwTznSeJRR5l6j" data-ss-padding="" data-ss-border="">
+                                            Servicio de moto dedicada exclusivamente para su empresa en el horario requerido.
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
-                            <h3 class="coverage-title">Cobertura Horaria</h3>
                         </div>
-                        <div class="card-body">
-                            <ul class="coverage-list">
-                                <li><i class="fas fa-calendar-alt"></i> Lunes a Sábados</li>
-                                <li><i class="fas fa-business-time"></i> 9:00 a 19:00 horas</li>
-                                <li><i class="fas fa-bolt"></i> Servicios Express 24/7</li>
-                                <li><i class="fas fa-utensils"></i> Atención especial gastronómica</li>
-                            </ul>
+                    </section>
+                    <!-- ======= Coverage Section ======= -->
+                    <section id="cobertura" class="coverage-section py-5" style="background-color: rgb(200, 214, 226) !important;" data-ss-id="AO9I1zkErjdgYvXH3czZJ" data-ss-padding="" data-ss-border="">
+                        <div class="container" data-ss-id="UcTbh1KKO7dL3qenQkPX_" data-ss-padding="" data-ss-border="">
+                            <div class="section-header text-center mb-5" data-ss-id="2x_Qt_r9kHxq5PK19geRa" data-ss-padding="" data-ss-border="">
+                                <span class="section-badge" data-ss-id="0XeWaRS5nohR5J1FiwCs8" data-ss-padding="" data-ss-border="">Servicio Local
+                                </span>
+                                <h2 class="section-title" data-ss-id="GMyGfMn768Jag8So7ZBXU" data-ss-padding="" data-ss-border="">Nuestra Cobertura
+                                </h2>
+                                <div class="section-divider" data-ss-id="Y-lrNGsWvhfO3rXAwf3f1" data-ss-padding="" data-ss-border="">
+                                    <span class="divider-dot" data-ss-id="AoWlPBouZNKlUT2DcX6b5" data-ss-padding="" data-ss-border=""></span>
+                                    <span class="divider-dot" data-ss-id="o_AmljMdIMJEUgCQaQGI2" data-ss-padding="" data-ss-border=""></span>
+                                    <span class="divider-dot" data-ss-id="R0mv3G5LjVuSRY2hw3Y0n" data-ss-padding="" data-ss-border=""></span>
+                                </div>
+                            </div>
+                            <div class="g-4 ssc-row" style="gap: 50px !important; grid-template-columns: 50fr 50fr;" data-ss-id="W8NqUZtK1huFNZdz4WYb-" data-ss-padding="" data-ss-border="">
+                                <div class="ssc-col" data-ss-id="tO5nPVVuWL6PLQ11vTHIg" data-ss-padding="" data-ss-border="">
+                                    <div class="coverage-card" style="padding: 20px !important;" data-ss-id="oHG3Js-xkMKUyzbp_6QiE" data-ss-padding="" data-ss-border="">
+                                        <div class="card-header" data-ss-id="abNhyep-jMeHIZL1Aiwc2" data-ss-padding="" data-ss-border="">
+                                            <div class="icon-wrapper" data-ss-id="9pZtT-LAz93KT_cLE6LvA" data-ss-padding="" data-ss-border="">
+                                                <span class="coverage-icon" data-ss-id="ZhQGjkBs3RUZeup95Eom3" data-ss-padding="" data-ss-border="">🗺️
+                                                </span>
+                                            </div>
+                                            <h3 class="coverage-title" data-ss-id="aZN0lGNu8bSqJzQA2cW9Y" data-ss-padding="" data-ss-border="">Zonas de Servicio
+                                            </h3>
+                                        </div>
+                                        <div class="card-body" data-ss-id="sPZdm5n5qEXSGc0g2hE8u" data-ss-padding="" data-ss-border="">
+                                            <ul class="coverage-list" data-ss-id="HOMNM2VFsnXW_-Vo7_pp9" data-ss-padding="" data-ss-border="">
+                                                <li data-ss-id="dKPrUv2azd7-0NEPmpnAs" data-ss-padding="" data-ss-border="">
+                                                    <i class="fas fa-check-circle" data-ss-id="7M0TDJ5eVcBuEYYO4vWOB" data-ss-padding="" data-ss-border=""></i>
+                                                    Zona Centro
+                                                </li>
+                                                <li data-ss-id="7FGlpO49GIePn4zsPkenl" data-ss-padding="" data-ss-border="">
+                                                    <i class="fas fa-check-circle" data-ss-id="RZCDpoVwsBz6veqvNOKkw" data-ss-padding="" data-ss-border=""></i>
+                                                    Zona Sur
+                                                </li>
+                                                <li data-ss-id="KHHDfxr9ncGrY6J-zOUlS" data-ss-padding="" data-ss-border="">
+                                                    <i class="fas fa-check-circle" data-ss-id="3vymtDC-yLejPvSHRt2fE" data-ss-padding="" data-ss-border=""></i>
+                                                    Zona Puerto
+                                                </li>
+                                                <li data-ss-id="VbOXf0edyecU2cDNjf30M" data-ss-padding="" data-ss-border="">
+                                                    <i class="fas fa-check-circle" data-ss-id="mxYbUsjI5yZPNUdJ4edDx" data-ss-padding="" data-ss-border=""></i>
+                                                    Barrios Residenciales
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ssc-col" data-ss-id="do7i8qCELwR_dIM_gDiFR" data-ss-padding="" data-ss-border="">
+                                    <div class="coverage-card" style="padding: 20px !important;" data-ss-id="oKxF6_QpFhl4Nbu5lq7k2" data-ss-padding="" data-ss-border="">
+                                        <div class="card-header" data-ss-id="RTSG959HE2-RwAhipHdl8" data-ss-padding="" data-ss-border="">
+                                            <div class="icon-wrapper" data-ss-id="-clwlYYQNqj_waJ2iMNKZ" data-ss-padding="" data-ss-border="">
+                                                <i class="fa-star-sharp fa-solid" style="font-size: 30px !important; color: rgb(8, 66, 152) !important;" data-ss-id="_7Mq20MwsbY_PzV8BKJ6u" data-ss-padding="" data-ss-border=""></i>
+                                            </div>
+                                            <h3 class="coverage-title" data-ss-id="xujgyE836vQ6jZmzAokWR" data-ss-padding="" data-ss-border="">Por qué elegirnos
+                                            </h3>
+                                        </div>
+                                        <div class="card-body" data-ss-id="BAlZUMEvvxO1idU7Fkvkg" data-ss-padding="" data-ss-border="">
+                                            <ul class="coverage-list" data-ss-id="tZqRAG5VEmLXMa31vVLcR" data-ss-padding="" data-ss-border="">
+                                                <li data-ss-id="Kb_qeBIIu-T2Tf7ajM4E-" data-ss-padding="" data-ss-border="">
+                                                    <i class="fas fa-star" data-ss-id="vueM3EUs3tiIqrJOT7dFn" data-ss-padding="" data-ss-border=""></i>
+                                                    4.8 estrellas en Google Reviews
+                                                </li>
+                                                <li data-ss-id="TLbubkLy6yqdBJ1_1XuJt" data-ss-padding="" data-ss-border="">
+                                                    <i class="fas fa-headset" data-ss-id="bta2p_uusd2c8zQtOiYfQ" data-ss-padding="" data-ss-border=""></i>
+                                                    Atención personalizada
+                                                </li>
+                                                <li data-ss-id="vZhdf5CAVeQN1hhxluZmy" data-ss-padding="" data-ss-border="">
+                                                    <i class="fas fa-tag" data-ss-id="2qGg8M731osRh2oBXrxnw" data-ss-padding="" data-ss-border=""></i>
+                                                    Tarifas transparentes y competitivas
+                                                </li>
+                                                <li data-ss-id="lJ4ay1VOUkOnki9iKHVVM" data-ss-padding="" data-ss-border="">
+                                                    <i class="fas fa-shield-alt" data-ss-id="gP6y7zK6MFxfM-Egvq-YE" data-ss-padding="" data-ss-border=""></i>
+                                                    Mensajeros profesionales capacitados
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
+                    </section>
 
        
                     <div id="bannerCarousel" class="carousel slide banner-carousel" data-bs-ride="carousel">
@@ -798,13 +825,1124 @@
             init();
         });
     </script>
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script>
-        AOS.init({
-            duration: 800,
-            easing: 'ease-in-out',
-            once: true
-        });
-    </script>
 </body>
 </html>
+
+=== CONTENIDO CSS: style.css ===
+/* Variables globales */
+:root {
+    /* Colores principales */
+    --primary-color: #2c3e50;
+    --primary-color-rgb: 44, 62, 80;
+    --primary-color-light: #3a506b;
+    --primary-color-dark: #1e2b3a;
+    
+    --secondary-color: #3498db;
+    --secondary-color-rgb: 52, 152, 219;
+    --secondary-color-light: #5dade2;
+    --secondary-color-dark: #2980b9;
+    
+    --accent-color: #ffd700;
+    --accent-color-rgb: 255, 215, 0;
+    --accent-color-light: #ffdf33;
+    --accent-color-dark: #e6c200;
+    
+    /* Colores de estado */
+    --success-color: #28a745;
+    --warning-color: #ffc107;
+    --danger-color: #dc3545;
+    --info-color: #17a2b8;
+    
+    /* Colores neutros */
+    --text-color: #333;
+    --text-color-light: #6c757d;
+    --background-color: #ffffff;
+    --background-color-alt: #f8f9fa;
+    --border-color: #dee2e6;
+    
+    /* Elementos de UI */
+    --border-radius: 12px;
+    --border-radius-sm: 6px;
+    --border-radius-lg: 16px;
+    --transition: all 0.3s ease;
+    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.05);
+    --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+    
+    /* Gradientes */
+    --nav-bg: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    
+    /* Espaciado */
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 1.5rem;
+    --spacing-xl: 2rem;
+    
+    /* Footer */
+    --footer-bg: var(--nav-bg);
+    --footer-accent: var(--accent-color);
+    --footer-text: rgba(255, 255, 255, 0.95);
+    --footer-border: rgba(255, 255, 255, 0.15);
+    --footer-gap: clamp(1.5rem, 4vw, 4rem);
+    --footer-radius: 2rem;
+    
+    /* Tipografía */
+    --font-family-base: 'Roboto', 'Segoe UI', sans-serif;
+    --font-family-heading: 'Roboto', 'Segoe UI', sans-serif;
+    --font-size-base: 1rem;
+    --font-size-sm: 0.875rem;
+    --font-size-lg: 1.25rem;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-bold: 700;
+    --line-height-base: 1.6;
+    
+    /* Breakpoints */
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+}
+
+/* Estilos base */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-family-base);
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-base);
+    color: var(--text-color);
+    background-color: var(--background-color);
+    overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family-heading);
+    font-weight: var(--font-weight-bold);
+    line-height: 1.3;
+    margin-bottom: var(--spacing-md);
+    color: var(--primary-color);
+}
+
+p {
+    margin-bottom: var(--spacing-md);
+}
+
+a {
+    color: var(--secondary-color);
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+a:hover {
+    color: var(--secondary-color-dark);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Utilidades de texto */
+.text-primary { color: var(--primary-color); }
+.text-secondary { color: var(--secondary-color); }
+.text-accent { color: var(--accent-color); }
+.text-success { color: var(--success-color); }
+.text-warning { color: var(--warning-color); }
+.text-danger { color: var(--danger-color); }
+.text-info { color: var(--info-color); }
+.text-light { color: var(--text-color-light); }
+
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.text-justify { text-align: justify; }
+
+.fw-normal { font-weight: var(--font-weight-normal); }
+.fw-medium { font-weight: var(--font-weight-medium); }
+.fw-bold { font-weight: var(--font-weight-bold); }
+
+/* Utilidades de espaciado */
+.m-0 { margin: 0; }
+.mt-1 { margin-top: var(--spacing-xs); }
+.mt-2 { margin-top: var(--spacing-sm); }
+.mt-3 { margin-top: var(--spacing-md); }
+.mt-4 { margin-top: var(--spacing-lg); }
+.mt-5 { margin-top: var(--spacing-xl); }
+
+.mb-1 { margin-bottom: var(--spacing-xs); }
+.mb-2 { margin-bottom: var(--spacing-sm); }
+.mb-3 { margin-bottom: var(--spacing-md); }
+.mb-4 { margin-bottom: var(--spacing-lg); }
+.mb-5 { margin-bottom: var(--spacing-xl); }
+
+.mx-auto { margin-left: auto; margin-right: auto; }
+
+.p-0 { padding: 0; }
+.p-1 { padding: var(--spacing-xs); }
+.p-2 { padding: var(--spacing-sm); }
+.p-3 { padding: var(--spacing-md); }
+.p-4 { padding: var(--spacing-lg); }
+.p-5 { padding: var(--spacing-xl); }
+
+/* Utilidades de flexbox */
+.d-flex { display: flex; }
+.flex-column { flex-direction: column; }
+.flex-row { flex-direction: row; }
+.flex-wrap { flex-wrap: wrap; }
+.flex-nowrap { flex-wrap: nowrap; }
+
+.justify-content-start { justify-content: flex-start; }
+.justify-content-center { justify-content: center; }
+.justify-content-end { justify-content: flex-end; }
+.justify-content-between { justify-content: space-between; }
+.justify-content-around { justify-content: space-around; }
+
+.align-items-start { align-items: flex-start; }
+.align-items-center { align-items: center; }
+.align-items-end { align-items: flex-end; }
+.align-items-stretch { align-items: stretch; }
+
+.align-self-start { align-self: flex-start; }
+.align-self-center { align-self: center; }
+.align-self-end { align-self: flex-end; }
+
+/* Utilidades de grid */
+.d-grid { display: grid; }
+.gap-1 { gap: var(--spacing-xs); }
+.gap-2 { gap: var(--spacing-sm); }
+.gap-3 { gap: var(--spacing-md); }
+.gap-4 { gap: var(--spacing-lg); }
+.gap-5 { gap: var(--spacing-xl); }
+
+/* Utilidades de visualización */
+.d-none { display: none; }
+.d-block { display: block; }
+.d-inline { display: inline; }
+.d-inline-block { display: inline-block; }
+
+/* Utilidades de posición */
+.position-relative { position: relative; }
+.position-absolute { position: absolute; }
+.position-fixed { position: fixed; }
+.position-sticky { position: sticky; }
+
+/* Utilidades de sombra */
+.shadow-sm { box-shadow: var(--shadow-sm); }
+.shadow { box-shadow: var(--shadow); }
+.shadow-lg { box-shadow: var(--shadow-lg); }
+
+/* Utilidades de borde */
+.rounded { border-radius: var(--border-radius); }
+.rounded-sm { border-radius: var(--border-radius-sm); }
+.rounded-lg { border-radius: var(--border-radius-lg); }
+.rounded-circle { border-radius: 50%; }
+
+/* Botones */
+.btn {
+    display: inline-block;
+    font-weight: var(--font-weight-medium);
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.5rem 1rem;
+    font-size: var(--font-size-base);
+    line-height: 1.5;
+    border-radius: var(--border-radius);
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.btn:focus, .btn:hover {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(var(--primary-color-rgb), 0.25);
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+    background-color: var(--primary-color-dark);
+    border-color: var(--primary-color-dark);
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+.btn-secondary:hover {
+    background-color: var(--secondary-color-dark);
+    border-color: var(--secondary-color-dark);
+}
+
+.btn-accent {
+    color: var(--primary-color);
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+.btn-accent:hover {
+    background-color: var(--accent-color-dark);
+    border-color: var(--accent-color-dark);
+}
+
+.btn-outline-primary {
+    color: var(--primary-color);
+    background-color: transparent;
+    border-color: var(--primary-color);
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-outline-secondary {
+    color: var(--secondary-color);
+    background-color: transparent;
+    border-color: var(--secondary-color);
+}
+
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+.btn-outline-accent {
+    color: var(--accent-color);
+    background-color: transparent;
+    border-color: var(--accent-color);
+}
+
+.btn-outline-accent:hover {
+    color: var(--primary-color);
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+.btn-lg {
+    padding: 0.75rem 1.5rem;
+    font-size: var(--font-size-lg);
+    border-radius: var(--border-radius-lg);
+}
+
+.btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: var(--font-size-sm);
+    border-radius: var(--border-radius-sm);
+}
+
+/* Contenedores */
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* Media queries */
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+/* Utilidades responsivas */
+@media (max-width: 575.98px) {
+    .d-none-xs { display: none !important; }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .d-none-sm { display: none !important; }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .d-none-md { display: none !important; }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .d-none-lg { display: none !important; }
+}
+
+@media (min-width: 1200px) {
+    .d-none-xl { display: none !important; }
+}
+
+/* Animaciones */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideInUp {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease forwards;
+}
+
+.slide-in-up {
+    animation: slideInUp 0.5s ease forwards;
+}
+
+
+=== CONTENIDO CSS: navbar.css ===
+/* Estilos para la barra de navegación principal */
+.main-nav {
+    background: var(--nav-bg);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: var(--shadow);
+    position: relative;
+    z-index: 10;
+}
+
+.nav-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Estilos del logo */
+.nav-logo {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.nav-logo:hover {
+    transform: scale(1.02);
+}
+
+.ss-image-link.d-inline-block {
+    max-width: 60px !important;
+    max-height: 60px !important;
+    display: block;
+}
+
+.logo-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo-title {
+    color: rgb(255, 193, 7) !important;
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.logo-text p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+/* Estilos del menú de navegación */
+.nav-menu {
+    display: flex;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 1.5rem;
+    font-size: 20px !important;
+}
+
+.nav-list li {
+    position: relative;
+}
+
+.nav-list a {
+    color: rgb(255, 193, 7) !important;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0;
+    transition: var(--transition);
+}
+
+.nav-list a:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}
+
+/* Estilos para los dropdowns */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-icon {
+    font-size: 0.8em;
+    margin-left: 0.4rem;
+    transition: transform 0.3s ease;
+}
+
+.dropdown:hover .dropdown-icon {
+    transform: rotate(180deg);
+}
+
+.dropdown-content {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--primary-color);
+    min-width: 220px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+    transition: all 0.3s ease;
+    z-index: 100;
+    padding: 0.5rem 0;
+}
+
+.dropdown:hover .dropdown-content {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.dropdown-content a {
+    color: white !important;
+    padding: 0.8rem 1.2rem;
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    transition: var(--transition);
+}
+
+.dropdown-content a i {
+    width: 20px;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+.dropdown-content a:hover {
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateX(5px);
+}
+
+/* Botón de navegación móvil */
+.mobile-nav-toggle {
+    display: none;
+    background: transparent;
+    border: none;
+    color: rgb(255, 193, 7);
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0.5rem;
+    transition: var(--transition);
+}
+
+.mobile-nav-toggle:hover {
+    transform: scale(1.1);
+}
+
+/* Media queries para responsividad */
+@media (max-width: 1100px) {
+    .nav-list {
+        font-size: 18px !important;
+        gap: 1rem;
+    }
+    
+    .logo-title {
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 992px) {
+    .nav-list {
+        font-size: 16px !important;
+        gap: 0.8rem;
+    }
+    
+    .nav-container {
+        padding: 0.8rem 1.5rem;
+    }
+    
+    .ss-image-link.d-inline-block {
+        max-width: 50px !important;
+        max-height: 50px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .nav-container {
+        padding: 0.8rem 1.5rem;
+    }
+    
+    .mobile-nav-toggle {
+        display: block;
+        z-index: 1002;
+    }
+    
+    .nav-menu {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 80%;
+        max-width: 350px;
+        height: 100vh;
+        background: var(--primary-color);
+        transition: right 0.3s ease;
+        z-index: 1001;
+        padding: 2rem 1rem;
+        overflow-y: auto;
+        box-shadow: -5px 0 15px rgba(0, 0, 0, 0.2);
+    }
+    
+    .nav-menu.active {
+        right: 0;
+    }
+    
+    .nav-list {
+        flex-direction: column;
+        gap: 0.5rem;
+        width: 100%;
+    }
+    
+    .nav-list li {
+        width: 100%;
+    }
+    
+    .nav-list a {
+        padding: 1rem;
+        width: 100%;
+        border-radius: 8px;
+        justify-content: space-between;
+    }
+    
+    .nav-list a:hover {
+        background: rgba(255, 255, 255, 0.05);
+        transform: none;
+    }
+    
+    .dropdown-content {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+        box-shadow: none;
+        background: transparent;
+        padding-left: 1.5rem;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease;
+        border-radius: 0;
+    }
+    
+    .dropdown.active .dropdown-content {
+        max-height: 500px;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+    
+    .dropdown-icon {
+        transition: transform 0.3s ease;
+    }
+    
+    .dropdown.active .dropdown-icon {
+        transform: rotate(180deg);
+    }
+    
+    .dropdown-content a {
+        padding: 0.8rem 1rem;
+        border-radius: 6px;
+    }
+    
+    .dropdown-content a:hover {
+        background: rgba(255, 255, 255, 0.05);
+    }
+}
+
+@media (max-width: 480px) {
+    .logo-title {
+        font-size: 1.1rem;
+    }
+    
+    .logo-text p {
+        font-size: 0.75rem;
+    }
+    
+    .ss-image-link.d-inline-block {
+        max-width: 45px !important;
+        max-height: 45px !important;
+    }
+    
+    .nav-container {
+        padding: 0.6rem 1rem;
+    }
+    
+    .nav-menu {
+        width: 85%;
+    }
+}
+
+/* Overlay para cuando el menú móvil está activo */
+.nav-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(2px);
+}
+
+.nav-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* Animación para el botón de menú móvil */
+.mobile-nav-toggle .fa-bars {
+    transition: transform 0.3s ease;
+}
+
+.mobile-nav-toggle.active .fa-bars {
+    transform: rotate(90deg);
+}
+
+
+=== CONTENIDO CSS: footer.css ===
+/* Estilos específicos para el footer */
+.main-footer {
+    background: var(--footer-bg);
+    color: var(--footer-text);
+    border-radius: 0 !important;
+    padding: var(--spacing-xl) 0 var(--spacing-md);
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--footer-gap);
+    margin-bottom: var(--spacing-xl);
+}
+
+/* Logo del footer */
+.footer-logo-flex {
+    gap: 10px !important;
+}
+
+.footer-logo-link {
+    height: fit-content !important;
+    width: fit-content !important;
+}
+
+.footer-logo-img {
+    max-width: 100px;
+    height: auto !important;
+    margin-bottom: 25px;
+    filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.2));
+    width: auto !important;
+}
+
+.footer-spacer {
+    margin-bottom: 20px !important;
+}
+
+/* Títulos del footer */
+.footer-title {
+    font-size: var(--font-size-lg);
+    margin-bottom: var(--spacing-lg);
+    color: var(--footer-accent);
+    font-weight: var(--font-weight-bold);
+}
+
+/* Enlaces del footer */
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-links li {
+    margin-bottom: var(--spacing-sm);
+    position: relative;
+}
+
+.footer-links a {
+    color: var(--footer-text);
+    display: flex;
+    align-items: center;
+    transition: var(--transition);
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: var(--footer-accent);
+    transform: translateX(5px);
+}
+
+.footer-links i {
+    margin-right: var(--spacing-sm);
+    width: 20px;
+    text-align: center;
+}
+
+/* Dropdown en el footer */
+.footer-links .dropdown {
+    position: relative;
+}
+
+.footer-links .dropdown > a {
+    cursor: pointer;
+}
+
+.footer-links .dropdown-content {
+    display: none;
+    padding-left: var(--spacing-lg);
+    margin-top: var(--spacing-xs);
+}
+
+.footer-links .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.footer-links .dropdown-content a {
+    padding: var(--spacing-xs) 0;
+    font-size: 0.9em;
+}
+
+/* Información de contacto */
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+}
+
+.contact-item i {
+    color: var(--footer-accent);
+    font-size: 1.2em;
+    width: 25px;
+    text-align: center;
+}
+
+.whatsapp-link {
+    color: var(--footer-text);
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+.whatsapp-link:hover {
+    color: var(--footer-accent);
+}
+
+/* Redes sociales */
+.social-container {
+    margin-top: var(--spacing-lg);
+}
+
+.social-title {
+    font-size: var(--font-size-base);
+    margin-bottom: var(--spacing-sm);
+    color: var(--footer-text);
+}
+
+.social-links {
+    display: flex;
+    gap: var(--spacing-md);
+}
+
+.social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: var(--footer-text);
+    transition: var(--transition);
+}
+
+.social-icon:hover {
+    background-color: var(--footer-accent);
+    color: var(--primary-color-dark);
+    transform: translateY(-3px);
+}
+
+.social-icon.instagram:hover {
+    background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+}
+
+.social-icon.facebook:hover {
+    background-color: #3b5998;
+}
+
+.social-icon.whatsapp:hover {
+    background-color: #25d366;
+}
+
+/* Parte inferior del footer */
+.footer-bottom {
+    border-top: 1px solid var(--footer-border);
+    padding-top: var(--spacing-md);
+    text-align: center;
+}
+
+.copyright {
+    font-size: var(--font-size-sm);
+    opacity: 0.8;
+    margin-bottom: 0;
+}
+
+/* Botón volver arriba */
+.back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: var(--primary-color);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transition: var(--transition);
+    z-index: 999;
+    border: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.back-to-top.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.back-to-top:hover {
+    background-color: var(--secondary-color);
+    transform: translateY(-3px);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .footer-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-xl);
+    }
+    
+    .footer-logo, .footer-nav, .footer-contact {
+        text-align: center;
+    }
+    
+    .footer-links a, .contact-item {
+        justify-content: center;
+    }
+    
+    .social-links {
+        justify-content: center;
+    }
+    
+    .back-to-top {
+        bottom: 20px;
+        right: 20px;
+        width: 40px;
+        height: 40px;
+    }
+}
+
+=== CONTENIDO CSS: sobrenosotros.css ===
+/* Hero Section - Sobre Nosotros */
+#banner-principal.hero {
+    width: 100%;
+    min-height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(120deg, #3498db 0%, #2c3e50 100%);
+    color: #fff;
+    padding: 3rem 1rem 2rem 1rem;
+    box-shadow: 0 4px 24px rgba(44,62,80,0.08);
+    border-radius: 0 0 2rem 2rem;
+    position: relative;
+    overflow: hidden;
+}
+
+#banner-principal .hero-content {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+    z-index: 2;
+    position: relative;
+}
+
+#banner-principal h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    letter-spacing: 1px;
+    color: #ffd700;
+    text-shadow: 0 2px 8px rgba(44,62,80,0.15);
+}
+
+#banner-principal h2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+    color: #fff;
+    text-shadow: 0 1px 4px rgba(44,62,80,0.10);
+}
+
+#banner-principal .hero-highlight {
+    background: rgba(255,255,255,0.10);
+    border-radius: 1rem;
+    padding: 1.2rem 1rem;
+    margin: 0 auto;
+    display: inline-block;
+    box-shadow: 0 2px 8px rgba(44,62,80,0.07);
+}
+
+#banner-principal .hero-highlight p {
+    color: #fff;
+    font-size: 1.1rem;
+    margin: 0;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+}
+
+/* Efecto decorativo opcional */
+#banner-principal::before {
+    content: "";
+    position: absolute;
+    top: -60px;
+    left: -60px;
+    width: 180px;
+    height: 180px;
+    background: rgba(255,215,0,0.10);
+    border-radius: 50%;
+    z-index: 1;
+}
+
+#banner-principal::after {
+    content: "";
+    position: absolute;
+    bottom: -40px;
+    right: -40px;
+    width: 120px;
+    height: 120px;
+    background: rgba(255,255,255,0.08);
+    border-radius: 50%;
+    z-index: 1;
+}
+
+/* Responsividad */
+@media (max-width: 768px) {
+    #banner-principal.hero {
+        min-height: 30vh;
+        padding: 2rem 0.5rem 1.5rem 0.5rem;
+        border-radius: 0 0 1.2rem 1.2rem;
+    }
+    #banner-principal h1 {
+        font-size: 2rem;
+    }
+    #banner-principal h2 {
+        font-size: 1.15rem;
+    }
+    #banner-principal .hero-content {
+        max-width: 95vw;
+    }
+}
+
+@media (max-width: 480px) {
+    #banner-principal.hero {
+        min-height: 22vh;
+        padding: 1.2rem 0.2rem 1rem 0.2rem;
+        border-radius: 0 0 0.7rem 0.7rem;
+    }
+    #banner-principal h1 {
+        font-size: 1.3rem;
+    }
+    #banner-principal h2 {
+        font-size: 1rem;
+    }
+    #banner-principal .hero-highlight {
+        padding: 0.7rem 0.5rem;
+        font-size: 0.97rem;
+    }
+}
+
